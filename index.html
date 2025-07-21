@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ukraine War Interactive Flow Visual</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Ukraine War Event Flows (Embedded Data)</h2>
+  <div>
+    <label>Filter by Actor:</label>
+    <select id="actorFilter"><option value="All">All</option></select>
+    <label>Filter by Type:</label>
+    <select id="typeFilter"><option value="All">All</option></select>
+    <button id="resetZoom">Reset Zoom</button>
+  </div>
+  <div id="datavis"></div>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
