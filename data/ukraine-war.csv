@@ -1,0 +1,119 @@
+event_date,actor1,event_type,fatalities,location,admin1
+2022-02-24,Russia,Attack,52,Kyiv,Kyiv City
+2022-02-24,Ukraine,Defense,12,Kharkiv,Kharkiv
+2022-02-25,Russia,Attack,34,Kherson,Kherson
+2022-02-25,Ukraine,Counterattack,18,Luhansk,Luhansk
+2022-03-01,Other,Civilian Casualty,70,Sumy,Sumy
+2022-03-03,Russia,Attack,43,Mariupol,Donetsk
+2022-03-05,Ukraine,Defense,9,Odessa,Odessa
+2022-03-07,Russia,Attack,85,Chernihiv,Chernihiv
+2022-03-08,Other,Civilian Protest,0,Poltava,Poltava
+2022-03-10,Ukraine,Counterattack,23,Mykolaiv,Mykolaiv
+2022-03-12,Russia,Attack,65,Bucha,Kyiv
+2022-03-14,Ukraine,Defense,17,Irpin,Kyiv
+2022-03-16,Other,Civilian Casualty,32,Sumy,Sumy
+2022-03-18,Russia,Attack,97,Izium,Kharkiv
+2022-03-20,Ukraine,Counterattack,25,Kharkiv,Kharkiv
+2022-03-21,Other,Civilian Protest,0,Odessa,Odessa
+2022-03-22,Russia,Attack,80,Lysychansk,Luhansk
+2022-03-23,Ukraine,Defense,14,Donetsk,Donetsk
+2022-03-24,Other,Civilian Casualty,41,Kherson,Kherson
+2022-03-25,Russia,Attack,110,Melitopol,Zaporizhia
+2022-03-26,Ukraine,Counterattack,21,Sievierodonetsk,Luhansk
+2022-03-27,Other,Civilian Protest,0,Kyiv,Kyiv City
+2022-03-28,Russia,Attack,44,Berdyansk,Zaporizhia
+2022-03-29,Ukraine,Defense,10,Kramatorsk,Donetsk
+2022-03-30,Other,Civilian Casualty,39,Kharkiv,Kharkiv
+2022-04-01,Russia,Attack,75,Trostyanets,Sumy
+2022-04-02,Ukraine,Counterattack,15,Brovary,Kyiv
+2022-04-03,Other,Civilian Protest,0,Kherson,Kherson
+2022-04-04,Russia,Attack,62,Izium,Kharkiv
+2022-04-05,Ukraine,Defense,19,Donetsk,Donetsk
+2022-04-06,Other,Civilian Casualty,45,Bucha,Kyiv
+2022-04-07,Russia,Attack,81,Mariupol,Donetsk
+2022-04-08,Ukraine,Counterattack,20,Kherson,Kherson
+2022-04-09,Other,Civilian Protest,0,Kharkiv,Kharkiv
+2022-04-10,Russia,Attack,29,Luhansk,Luhansk
+2022-04-11,Ukraine,Defense,16,Kyiv,Kyiv City
+2022-04-12,Other,Civilian Casualty,36,Odessa,Odessa
+2022-04-13,Russia,Attack,68,Donetsk,Donetsk
+2022-04-14,Ukraine,Counterattack,22,Sumy,Sumy
+2022-04-15,Other,Civilian Protest,0,Trostyanets,Sumy
+2022-04-16,Russia,Attack,54,Mykolaiv,Mykolaiv
+2022-04-17,Ukraine,Defense,11,Poltava,Poltava
+2022-04-18,Other,Civilian Casualty,38,Melitopol,Zaporizhia
+2022-04-19,Russia,Attack,73,Kherson,Kherson
+2022-04-20,Ukraine,Counterattack,13,Berdyansk,Zaporizhia
+2022-04-21,Other,Civilian Protest,0,Sievierodonetsk,Luhansk
+2022-04-22,Russia,Attack,92,Kyiv,Kyiv City
+2022-04-23,Ukraine,Defense,18,Mariupol,Donetsk
+2022-04-24,Other,Civilian Casualty,47,Irpin,Kyiv
+2022-04-25,Russia,Attack,61,Odessa,Odessa
+2022-04-26,Ukraine,Counterattack,17,Kharkiv,Kharkiv
+2022-04-27,Other,Civilian Protest,0,Chernihiv,Chernihiv
+2022-04-28,Russia,Attack,79,Sumy,Sumy
+2022-04-29,Ukraine,Defense,14,Izium,Kharkiv
+2022-04-30,Other,Civilian Casualty,33,Luhansk,Luhansk
+2022-05-01,Russia,Attack,88,Poltava,Poltava
+2022-05-02,Ukraine,Counterattack,19,Donetsk,Donetsk
+2022-05-03,Other,Civilian Protest,0,Melitopol,Zaporizhia
+2022-05-04,Russia,Attack,56,Kyiv,Kyiv City
+2022-05-05,Ukraine,Defense,12,Kherson,Kherson
+2022-05-06,Other,Civilian Casualty,49,Kharkiv,Kharkiv
+2022-05-07,Russia,Attack,77,Mariupol,Donetsk
+2022-05-08,Ukraine,Counterattack,16,Odessa,Odessa
+2022-05-09,Other,Civilian Protest,0,Bucha,Kyiv
+2022-05-10,Russia,Attack,30,Luhansk,Luhansk
+2022-05-11,Ukraine,Defense,13,Sumy,Sumy
+2022-05-12,Other,Civilian Casualty,37,Donetsk,Donetsk
+2022-05-13,Russia,Attack,69,Mykolaiv,Mykolaiv
+2022-05-14,Ukraine,Counterattack,21,Poltava,Poltava
+2022-05-15,Other,Civilian Protest,0,Kyiv,Kyiv City
+2022-05-16,Russia,Attack,60,Trostyanets,Sumy
+2022-05-17,Ukraine,Defense,15,Brovary,Kyiv
+2022-05-18,Other,Civilian Casualty,40,Kherson,Kherson
+2022-05-19,Russia,Attack,71,Kharkiv,Kharkiv
+2022-05-20,Ukraine,Counterattack,18,Mariupol,Donetsk
+2022-05-21,Other,Civilian Protest,0,Irpin,Kyiv
+2022-05-22,Russia,Attack,85,Bucha,Kyiv
+2022-05-23,Ukraine,Defense,16,Izium,Kharkiv
+2022-05-24,Other,Civilian Casualty,44,Odessa,Odessa
+2022-05-25,Russia,Attack,63,Sumy,Sumy
+2022-05-26,Ukraine,Counterattack,14,Donetsk,Donetsk
+2022-05-27,Other,Civilian Protest,0,Melitopol,Zaporizhia
+2022-05-28,Russia,Attack,90,Kyiv,Kyiv City
+2022-05-29,Ukraine,Defense,20,Kherson,Kherson
+2022-05-30,Other,Civilian Casualty,42,Kharkiv,Kharkiv
+2022-05-31,Russia,Attack,78,Mariupol,Donetsk
+2022-06-01,Ukraine,Counterattack,23,Odessa,Odessa
+2022-06-02,Other,Civilian Protest,0,Bucha,Kyiv
+2022-06-03,Russia,Attack,35,Luhansk,Luhansk
+2022-06-04,Ukraine,Defense,12,Sumy,Sumy
+2022-06-05,Other,Civilian Casualty,31,Donetsk,Donetsk
+2022-06-06,Russia,Attack,66,Mykolaiv,Mykolaiv
+2022-06-07,Ukraine,Counterattack,24,Poltava,Poltava
+2022-06-08,Other,Civilian Protest,0,Kyiv,Kyiv City
+2022-06-09,Russia,Attack,59,Trostyanets,Sumy
+2022-06-10,Ukraine,Defense,13,Brovary,Kyiv
+2022-06-11,Other,Civilian Casualty,39,Kherson,Kherson
+2022-06-12,Russia,Attack,73,Kharkiv,Kharkiv
+2022-06-13,Ukraine,Counterattack,16,Mariupol,Donetsk
+2022-06-14,Other,Civilian Protest,0,Irpin,Kyiv
+2022-06-15,Russia,Attack,84,Bucha,Kyiv
+2022-06-16,Ukraine,Defense,17,Izium,Kharkiv
+2022-06-17,Other,Civilian Casualty,46,Odessa,Odessa
+2022-06-18,Russia,Attack,61,Sumy,Sumy
+2022-06-19,Ukraine,Counterattack,20,Donetsk,Donetsk
+2022-06-20,Other,Civilian Protest,0,Melitopol,Zaporizhia
+2022-06-21,Russia,Attack,82,Kyiv,Kyiv City
+2022-06-22,Ukraine,Defense,19,Kherson,Kherson
+2022-06-23,Other,Civilian Casualty,41,Kharkiv,Kharkiv
+2022-06-24,Russia,Attack,76,Mariupol,Donetsk
+2022-06-25,Ukraine,Counterattack,22,Odessa,Odessa
+2022-06-26,Other,Civilian Protest,0,Bucha,Kyiv
+2022-06-27,Russia,Attack,37,Luhansk,Luhansk
+2022-06-28,Ukraine,Defense,15,Sumy,Sumy
+2022-06-29,Other,Civilian Casualty,34,Donetsk,Donetsk
+2022-06-30,Russia,Attack,67,Mykolaiv,Mykolaiv
+2022-07-01,Ukraine,Counterattack,25,Poltava,Poltava
+2022-07-02,Other,Civilian Protest,0,Kyiv,Kyiv City
